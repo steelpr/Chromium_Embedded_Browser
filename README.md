@@ -1,4 +1,4 @@
-# Cromium_Embedded_Browser
+# Chromium_Embedded_Browser
 This is an application created for TRI Soft Ltd. The idea of ​​this project is to develop an embedded browser using the CEF Sharp library. We use WInForms.
 
 Това е приложение е създадено за TRI Soft Ltd. Идеята на този проект е да се разработи embedded браузър с помощта на библиотеката CEF Sharp. Използваме WInForms. 
